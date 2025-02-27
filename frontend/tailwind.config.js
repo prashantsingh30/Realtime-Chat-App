@@ -1,7 +1,9 @@
 import daisyui from "daisyui";
 
 /** @type {import('tailwindcss').Config} */
-export default {
+import { defineConfig } from "vite";
+import tailwindcss from "@tailwindcss/vite";
+export default defineConfig({
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {},
@@ -43,4 +45,4 @@ export default {
       "sunset",
     ],
   },
-};
+});
