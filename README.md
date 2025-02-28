@@ -1,7 +1,5 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
 Highlights:
 
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
@@ -10,8 +8,7 @@ Highlights:
 - 🚀 Online user status
 - 👌 Global state management with Zustand
 - 🐞 Error handling both on the server and on the client
-- ⭐ At the end Deployment like a pro for FREE!
-- ⏳ And much more!
+- ⭐ At the end Deployment
 
 ### Setup .env file
 
